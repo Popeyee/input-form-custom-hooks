@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/input-form-custom-hooks/static/css/main.49da2c46.css",
+    "main.js": "/input-form-custom-hooks/static/js/main.1ca6c0fe.js",
+    "index.html": "/input-form-custom-hooks/index.html",
+    "main.49da2c46.css.map": "/input-form-custom-hooks/static/css/main.49da2c46.css.map",
+    "main.1ca6c0fe.js.map": "/input-form-custom-hooks/static/js/main.1ca6c0fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49da2c46.css",
+    "static/js/main.1ca6c0fe.js"
+  ]
+}
